@@ -1,0 +1,52 @@
+export const adsImages1=[
+    {
+        img:'https://img.freepik.com/free-psd/delicious-burger-food-menu-social-media-banner-template_106176-360.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-407.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-vector/mobile-marketing-concept-illustration_114360-1497.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-agency-corporate-social-media-post-template_106176-433.jpg?size=338&ext=jpg'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/delicious-burger-food-menu-social-media-banner-template_106176-360.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-407.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-vector/mobile-marketing-concept-illustration_114360-1497.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-agency-corporate-social-media-post-template_106176-433.jpg?size=338&ext=jpg'
+    }
+]
+export const adsImages2=[
+    {
+        img:'https://img.freepik.com/free-psd/delicious-burger-food-menu-social-media-banner-template_106176-360.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-407.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-vector/mobile-marketing-concept-illustration_114360-1497.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-agency-corporate-social-media-post-template_106176-433.jpg?size=338&ext=jpg'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/delicious-burger-food-menu-social-media-banner-template_106176-360.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-live-webinar-corporate-social-media-post-template_202595-407.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-vector/mobile-marketing-concept-illustration_114360-1497.jpg?size=338&ext=jpg&ga=GA1.2.1214350940.1667950202'
+    },
+    {
+        img:'https://img.freepik.com/free-psd/digital-marketing-agency-corporate-social-media-post-template_106176-433.jpg?size=338&ext=jpg'
+    }
+]

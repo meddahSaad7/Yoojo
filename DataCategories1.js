@@ -1,0 +1,53 @@
+const DataCategories1=[
+
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/202-87e3bd75.svg',
+        title:'Électricité'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/203-2e3a72b2.svg',
+        title:'Rénovation'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/204-bb5d769f.svg',
+        title:'Plomberie'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/202-87e3bd75.svg',
+        title:'Électricité'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/203-2e3a72b2.svg',
+        title:'Rénovation'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/204-bb5d769f.svg',
+        title:'Plomberie'
+    },
+
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/202-87e3bd75.svg',
+        title:'Électricité'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/203-2e3a72b2.svg',
+        title:'Rénovation'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/204-bb5d769f.svg',
+        title:'Plomberie'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/202-87e3bd75.svg',
+        title:'Électricité'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/203-2e3a72b2.svg',
+        title:'Rénovation'
+    },
+    {
+        img:'https://d1b747rczec55w.cloudfront.net/assets/packs/media/categories/204-bb5d769f.svg',
+        title:'Plomberie'
+    }
+]
+module.exports=DataCategories1;
